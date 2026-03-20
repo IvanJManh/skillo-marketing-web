@@ -36,7 +36,7 @@ export function Navigation() {
         <a href="#" className="flex items-center gap-2">
           <img src="/icon.png" alt="Logo" className="h-8 w-auto object-contain" />
           <span className="font-semibold text-slate-900 text-lg hidden sm:block">
-            Micro Skill Builder
+            Skillo
           </span>
         </a>
 

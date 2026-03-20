@@ -19,10 +19,8 @@ export function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-600 to-cyan-400 flex items-center justify-center">
-                <span className="text-white font-bold text-sm">MS</span>
-              </div>
-              <span className="font-semibold text-white text-lg">Micro Skill Builder</span>
+              <img src="/icon.png" alt="Logo" className="h-8 w-auto object-contain" />
+              <span className="font-semibold text-white text-lg">Skillo</span>
             </div>
             <p className="text-slate-400 mb-6 max-w-sm">
               AI-powered communication coaching that transforms your confidence in 2 minutes daily.
@@ -66,7 +64,7 @@ export function Footer() {
         {/* Bottom */}
         <div className="mt-16 pt-8 border-t border-slate-800 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-slate-500 text-sm">
-            2026 Micro Skill Builder. All rights reserved.
+            2026 Skillo. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <a href="#" className="text-slate-400 hover:text-white transition-colors">

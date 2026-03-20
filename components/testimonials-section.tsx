@@ -5,7 +5,7 @@ import { Star, CheckCircle, Quote } from "lucide-react"
 const testimonials = [
   {
     quote:
-      "I used to dread presentations. After 2 weeks with Micro Skill Builder, I led our quarterly review to a standing ovation.",
+      "I used to dread presentations. After 2 weeks with Skillo, I led our quarterly review to a standing ovation.",
     name: "Sarah Chen",
     title: "Senior Product Manager",
     company: "TechUnicorn",
