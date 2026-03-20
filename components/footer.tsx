@@ -19,7 +19,7 @@ export function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <img src="/icon.png" alt="Logo" className="h-8 w-auto object-contain" />
+              <img src="/skillo-final-logo.png" alt="Logo" className="h-8 w-auto object-contain" />
               <span className="font-semibold text-white text-lg">Skillo</span>
             </div>
             <p className="text-slate-400 mb-6 max-w-sm">

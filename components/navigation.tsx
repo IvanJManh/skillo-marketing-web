@@ -34,7 +34,7 @@ export function Navigation() {
       <div className="flex items-center justify-between px-6 py-4">
         {/* Logo */}
         <a href="#" className="flex items-center gap-2">
-          <img src="/icon.png" alt="Logo" className="h-8 w-auto object-contain" />
+          <img src="/skillo-final-logo.png" alt="Logo" className="h-8 w-auto object-contain" />
           <span className="font-semibold text-slate-900 text-lg hidden sm:block">
             Skillo
           </span>
