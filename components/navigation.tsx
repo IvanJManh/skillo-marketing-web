@@ -34,9 +34,7 @@ export function Navigation() {
       <div className="flex items-center justify-between px-6 py-4">
         {/* Logo */}
         <a href="#" className="flex items-center gap-2">
-          <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-600 to-cyan-400 flex items-center justify-center">
-            <span className="text-white font-bold text-sm">MS</span>
-          </div>
+          <img src="/icon.png" alt="Logo" className="h-8 w-auto object-contain" />
           <span className="font-semibold text-slate-900 text-lg hidden sm:block">
             Micro Skill Builder
           </span>
